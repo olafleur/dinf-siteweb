@@ -34,6 +34,7 @@
                 <li><a href="stages.php">Stages</a></li>
                 <li><a href="photos-videos.php">Photos/Vidéos</a></li>
                 <li><a href="profs.php">Professeurs</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
         </div>
     </div>
